@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @FrankDickenz
-- 👀 I’m interested in Python, Java, MySQL, ReactNative, C#
-- 🌱 I’m currently learning AI and Blockchain Tec
-- 📫 How to reach me +256701779545/+256778231721
+👋 Hi there! I'm a passionate Full-Stack Developer with expertise in building robust and scalable applications.
 
-<!---
-FrankDickenz/FrankDickenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Skills**:
+- **Backend**: Python, Django, Frappe Framework  
+- **Frontend**: JavaScript, React Native  
+- **Mobile Development**: Android (Java/Kotlin), iOS (Swift)  
+- **AI Enthusiast**: Always exploring the intersection of AI and software development.  
+
+💼 **Notable Projects**:  
+- **Lead Developer**: UIA Monitoring, Evaluation, and Communication Tool – empowering effective decision-making through data-driven insights.  
+- **Creator**: Victory Uganda App (Android & iOS) – a multi-functional platform with streaming services and community engagement tools.  
+- **Developer**: RuphaSoft HMIS – a comprehensive health management system for rural and urban hospitals in Kenya.  
+
+✨ **Passion**: Innovating with technology, crafting impactful user experiences, and pushing the boundaries of what software can do.
+
+📫 **Let’s Connect**: Always open to collaboration and discussing exciting projects!
